@@ -1,6 +1,6 @@
 function Home()
 {
-   return <h1>Teste de header</h1>;
+   return <h1>Just do it</h1>;
 }
 
 export default Home;
